@@ -1,0 +1,20 @@
+NPM SASS, Critical, CriticalCSS, Penthouse, Gulp: https://web.dev/extract-critical-css/
+React
+Coffee
+
+Kubernetes
+
+Github actions for commits
+
+
+Django Caching
+
+NGINX
+
+Redis
+
+Folium, ChartJS, Plotly, Matplotlib, Panel
+
+Digital Ocean.
+
+Linkux Docker Migration
